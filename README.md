@@ -12,7 +12,7 @@
 ## Hello There!  🌱 
 
 <p align="right">
-  <img src="https://github.com/ChemaV/ChemaV/blob/main/giphy.gif"/>
+  <img heigth="150" width="150" src="https://github.com/Paola-Guerra/paola-guerra/blob/main/giphy.gif"/>
 </p>
 
 <br>
