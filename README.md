@@ -9,10 +9,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello There!  🌱 
 
 <p align="right">
-  <img heigth="150" width="150" src="https://github.com/Paola-Guerra/paola-guerra/blob/main/giphy.gif"/>
+  <img heigth="350" width="350" src="https://github.com/Paola-Guerra/paola-guerra/blob/main/giphy.gif"/>
 </p>
 
 <br>
