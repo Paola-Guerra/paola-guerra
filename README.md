@@ -10,16 +10,13 @@
  I am 
 <br>
 - 🌍 📡 Full Stack Web Developer 
-- 💭 📐 Sociologist
-- 🔧 💻 IT Technician
-- 📷 🎥 Video and Photo producer
 
 <br>
 
 - 👨‍💻 Currently working on web development technologies JavaScript, React, SCSS, etc 🌀
 - 📚 Learning everything about inmersive technologies; Virtual Reality, Aumented Reality, Mixed Reality 😉
 - 💪🏼 Future Goals: Be a great developer - Never stop creating new ideas 👽
-- ⚡ Fun fact: I love japanese food, electronic music and losing myself in nature 🌳 
+- ⚡ Fun fact: I love movies, foodie and losing myself with my dog .
 
 
 <br>
@@ -30,7 +27,6 @@
 <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![nextjs](https://img.shields.io/badge/Next.js-0095D5?style=flat&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -48,7 +44,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+
 <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
     <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white"/>
   </a>
