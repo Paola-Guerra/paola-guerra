@@ -10,7 +10,6 @@
  I am 
 <br>
 - 🌍 📡 Full Stack Web Developer 
-
 <br>
 
 - 👨‍💻 Currently working on web development technologies JavaScript, React, SCSS, etc 🌀
